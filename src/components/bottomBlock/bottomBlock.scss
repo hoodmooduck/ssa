@@ -299,6 +299,12 @@
         background: url(../../assets/img/background_wall.png) no-repeat;
         background-size: 100% 100%;
         padding: 0px 20px;
+        &::before{
+            display: none;
+        }
+        &::after{
+            display: none;
+        }
         .bottomBlockColumn{
             width: 100%;
             height: 100%;
