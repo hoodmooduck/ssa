@@ -1,8 +1,8 @@
-# React + Vite
+Чтобы запустить проект:
+1)Клонируете его себе через git clone
+2)Затем устанавливаете все нужные пакеты npm, через команду npm install
+3)После чего команда npm run dev запускает проект
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Адаптивы сделаны, но на телефон не смог придумать чего-то нормального, поэтому на телефоне будет выглядеть не очень
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Писал на react просто потому что быстрее + проще, но могу и на ванильном html/css/js, если нужно
